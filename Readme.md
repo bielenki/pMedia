@@ -92,7 +92,7 @@ Figura 7: Janela do script de Thiessen Variáveis
 
 Os ponderadores são então calculados e gravados no arquivo XLS de saída.
 
-![fig1](https://github.com/bielenki/pMedia/blob/main/Fig/fig81.png?raw=true)
+![fig1](https://github.com/bielenki/pMedia/blob/main/Fig/fig8.png?raw=true)
 
 Figura 8: Exemplo de arquivo xls com os resultados
 
