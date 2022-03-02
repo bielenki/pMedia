@@ -18,6 +18,8 @@ Para adicionar a *ToolBox* ao Arc Gis 10 clique com o botão direito do mouse em
 **ArcToolbox** e selecione **Add Toolbox**, em seguida navegue até o diretório
 que contém a *ToolBox* , selecione-a e clique em **Open**.
 
+![fig1](https://github.com/bielenki/pMedia/blob/main/fig/fig1.png?raw=true)
+
 Figura 1: Adicionando a *ToolBox*
 
 Clique com o botão direito do mouse em um dos *scripts* e selecione
